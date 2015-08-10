@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Meal Plan Manager</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_have_ameal">HaveAmealActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+
+    <string name="cannot">Cannot</string>
+    <string name="album_name">MealPlanManagerAlbum</string>
+    <string name="action_save">Save</string>
+    <string name="title_activity_meal_list">MealListActivity</string>
+
+
+</resources>
